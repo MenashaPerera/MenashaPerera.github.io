@@ -50,20 +50,11 @@ Like to work diligently for my passions and see it as my responsibility to work 
 <li>Successfully completed the English Speech, Grammar and elocution course in Institute of English, Maharagama. (2007 - 2017)</li>
 </ul>
 
-## SKILLS
+## OTHER SKILLS
 
 <ul>
 <li>Writing               : Good at writing in both Sinhala and English.</li>
 <li>Language              : Fluent in both Sinhala and English languages.</li>
-<li>Graphic design skills : Good at designing using Adobe Photoshop, Adobe Illustrator.</li>
-</ul>
+<li>Graphic design skills : Adobe Photoshop, Adobe Illustrator.</li>
 
-## HOBBIES
- 
-<ul>
-<li>Drawing</li>
-<li>Reading books</li>
-<li>Singing</li>
-  
-  
 
