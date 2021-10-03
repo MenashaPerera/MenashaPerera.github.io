@@ -9,9 +9,9 @@ Like to work diligently for my passions and see it as my responsibility to work 
 ### St. Joseph’s Girls’ School, Nugegoda - Advanced Level Examination, October 2020. (English medium)
 
 <ul>
-<li>Biology   S</li>
-<li>Chemistry S</li>
-<li>Physics   S</li>
+<li>Biology      S</li>
+<li>Chemistry    S</li>
+<li>Physics      S</li>
 </ul>
 
 
@@ -65,6 +65,8 @@ Like to work diligently for my passions and see it as my responsibility to work 
 <li>Reading books</li>
 <li>Singing</li> 
 </ul>
+
+
   
 
 
