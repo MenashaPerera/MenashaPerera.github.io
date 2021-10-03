@@ -76,8 +76,9 @@ Like to work diligently for my passions and see it as my responsibility to work 
 
 ## CONTACT DETAILS
 
-E mail address : <menashaperera15@gmail.com>
+Personal email address : <menashaperera15@gmail.com>
 
+SLIIT email address    : <HS21222054@my.sliit.lk>
 
   
 
