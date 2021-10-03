@@ -36,6 +36,7 @@ Like to work diligently for my passions and see it as my responsibility to work 
   <li>Following the B.Sc. (Hons) in Biotechnology degree.</li>
 </ul>
 
+
 ## ACHIEVEMENTS
 
 <ul>
@@ -50,6 +51,7 @@ Like to work diligently for my passions and see it as my responsibility to work 
 <li>Successfully completed the English Speech, Grammar and elocution course in Institute of English, Maharagama. (2007 - 2017)</li>
 </ul>
 
+
 ## OTHER SKILLS
 
 <ul>
@@ -57,7 +59,8 @@ Like to work diligently for my passions and see it as my responsibility to work 
 <li>Language              : Fluent in both Sinhala and English languages.</li>
 <li>Graphic design skills : Good designing using Adobe Photoshop, Adobe Illustrator.</li>
 </ul>
-  
+ 
+ 
 ## HOBBIES
   
 <ul> 
@@ -65,6 +68,11 @@ Like to work diligently for my passions and see it as my responsibility to work 
 <li>Reading books</li>
 <li>Singing</li> 
 </ul>
+
+
+## My Resume
+[HS21222054_Menasha Perera.pdf](https://github.com/MenashaPerera/MenashaPerera.github.io/files/7273775/HS21222054_Menasha.Perera.pdf)
+
 
 
   
