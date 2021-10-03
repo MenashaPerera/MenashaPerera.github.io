@@ -74,6 +74,10 @@ Like to work diligently for my passions and see it as my responsibility to work 
 [HS21222054_Menasha Perera.pdf](https://github.com/MenashaPerera/MenashaPerera.github.io/files/7273775/HS21222054_Menasha.Perera.pdf)
 
 
+## CONTACT DETAILS
+
+E mail address : <menashaperera15@gmail.com>
+
 
   
 
