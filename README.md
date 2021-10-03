@@ -55,6 +55,14 @@ Like to work diligently for my passions and see it as my responsibility to work 
 <ul>
 <li>Writing               : Good at writing in both Sinhala and English.</li>
 <li>Language              : Fluent in both Sinhala and English languages.</li>
-<li>Graphic design skills : Adobe Photoshop, Adobe Illustrator.</li>
+<li>Graphic design skills : Good designing using Adobe Photoshop, Adobe Illustrator.</li>
+  
+## HOBBIES
+  
+<ul> 
+<li>Drawing</li>
+<li>Reading books</li>
+<li>Singing</li> 
+  
 
 
